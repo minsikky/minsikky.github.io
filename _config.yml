@@ -23,7 +23,7 @@ email: minsik.kim@snu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   
 pitch: I am an undergraduate student in Seoul National University, majoring Electrical and Computer Engineering.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  minsikky
 
