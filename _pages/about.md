@@ -6,7 +6,7 @@ subtitle: Seoul National University. Electrical and Computer Engineering.
 
 profile:
   align: right
-  image: ./assets/prof_pic.JPG
+  image: ../assets/prof_pic.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Fig 1. 2020 me (22 years old)</p>
