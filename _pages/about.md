@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Seoul National University. Electrical and Computer Engineering.
+subtitle: University of Michigan, Ann Arbor. Electrical and Computer Engineering.
 
 profile:
   align: right
@@ -18,6 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
  <!-- <a href="https://www.youtube.com/watch?v=PLK3pGELbSs">*This is an exciting time to be a graduate student, don’t you think?*</a> -->
 
-I am a senior undergraduate student at Seoul National University, expected to graduate in a couple of months. My research interests include domain-specific architecture, reconfigurable computing, and agile hardware design frameworks. Check out my [Curriculum Vitae](../CV_221211.pdf) for more information.
+I am a Ph.D. student at <a href="https://vlsisp.engin.umich.edu">VLSI-SP Group</a> of University of Michigan, Ann Arbor, advised by Professor Zhengya Zhang. My research interests include domain-specific architecture, reconfigurable computing, and hardware design frameworks. Check out my [Curriculum Vitae](../CV_221211.pdf) for more information.
 
-I am currently working as a research intern at <a href="https://vlsi.snu.ac.kr">SNU VLSI Lab</a>, under the guidance of Professor Jae-Joon Kim.
+Before joining University of Michigan, I got my B.S. at Seoul National University in 2023.
+
+<!-- During 2022-2023, I worked with Professor Jae-Joon Kim at <a href="https://vlsi.snu.ac.kr">SNU VLSI Lab</a>, as an undergraduate research intern. under the guidance of Professor Jae-Joon Kim. -->
